@@ -1,6 +1,6 @@
-# simple-books-api-tests
+# Simple books api tests
 
-A REST API test collection built with Postman, covering order management endpoints of the [Simple Books API](https://simple-books-api.click).
+A REST API test collection built with Postman, covering order management endpoints of the [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md).
 
 Created by me as a part of API testing practice.🚀
 
