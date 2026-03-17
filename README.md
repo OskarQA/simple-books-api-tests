@@ -2,7 +2,7 @@
 
 A REST API test collection built with Postman, covering order management endpoints of the [Simple Books API](https://simple-books-api.click).
 
-Created by **Oscar** as part of API testing practice.
+Created by **Oscar** as part of API testing practice.🚀
 
 ---
 
